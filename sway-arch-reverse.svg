@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="sway-arch.svg">
+   sodipodi:docname="sway-arch-reverse.svg"
+   inkscape:export-filename="C:\Users\main\Pictures\uprn\sway-arch-art\sway-arch-reverse.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs2">
     <linearGradient
@@ -113,15 +116,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="616.82523"
+     inkscape:cx="50.396661"
      inkscape:cy="344.1431"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="1042"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="1133"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -131,7 +134,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
