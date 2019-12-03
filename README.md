@@ -1,4 +1,4 @@
-# sway-arch-art
+# sway-art
 
 Fonts used:
 - Hacked; https://www.fontspace.com/davidlibeau/hacked
